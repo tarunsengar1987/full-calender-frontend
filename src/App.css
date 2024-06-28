@@ -1,0 +1,12 @@
+.fc-event-title-container, .fc-daygrid-dot-event{
+  @apply bg-[green] px-[10px] text-[18px] text-[white]
+}
+.fc-daygrid-dot-event:hover{
+  @apply bg-[green] px-[10px] text-[18px] text-[white]
+}
+.fc-daygrid-event-dot{
+  @apply border-[white]
+}
+.fc-event-time{
+  @apply bg-[green]
+}
